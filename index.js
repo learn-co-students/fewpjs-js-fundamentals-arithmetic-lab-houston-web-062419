@@ -9,4 +9,5 @@ var random = 1
 var mod = 19 % 5
 
 var array = [1, 20]
+// console.log(Math.max(array)) 
 var max = Math.max(...array)
